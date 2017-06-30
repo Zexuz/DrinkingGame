@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="countries_array">
+      <item>Bahrain</item>
+      <item>Bangladesh</item>
+      <item>Barbados</item>
+      <item>Belarus</item>
+      <item>Belgium</item>
+      <item>Belize</item>
+      <item>Benin</item>
+   </string-array>
+</resources>
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<resources>-->
+    
+
+<!--</resources>-->
+
+
+
+
+
+                        <!--myList0 = new List.<String>();-->
+                            <!--myList0.Add("Alla som tycker att Clovos är snygg, drick! 1.");-->
+                            <!--myList0.Add("Alla som tycker att Clovos är snygg, drick! 2.");-->
+                            <!--myList0.Add("Alla som tycker att Clovos är snygg, drick! 3.");-->
+
+
+
+                                    <!---->
+
+
+
+
+
+                                        <!--myList4 = new List.<String>();-->
+                                            <!--myList4.Add("Regel: Alla måste fist-pumpa samtidigt som de dricker.");-->
+                                            <!--myList4.Add("Regel: Alla måste ge någon en higfive innan de dricker.");-->
+                                            <!--myList4.Add("Regel: Alla måste alltid dricka med vänster hand.");-->
+                                            <!--myList4.Add("Regel: Alla måste dra ett citat ifrån en film, tv serie, spel eller låt innan den dricker.");-->
+                                            <!--myList4.Add("Regel: Ingen får säga nej.");-->
+                                            <!--myList4.Add("Regel: Inge får tveka.");-->
+                                            <!--myList4.Add("Regel: Alla måste ursäkta sig innan den dricker.");-->
+                                            <!--myList4.Add("Regel: Alla måste avsluta sina meningar med en fråga");-->
+
+
+
+
+                                            <!--myList5 = new List.<String>();-->
+                                                <!--myList5.Add("KATAGORI: Djur sorter. Game host börjar.");-->
+                                                <!--myList5.Add("KATEGORI: Bilmärken. Game host börjar.");-->
+                                                <!--myList5.Add("KATEGORI: Ciggarett märken. Game host börjar.");-->
+                                                <!--myList5.Add("KATEGORI: Dator spel. Game host börjar.");-->
+                                                <!--myList5.Add("KATEGORI: Parfym märken. Game host börjar.");-->
+                                                <!--myList5.Add("KATEGORI: Länder i Eurpoa. Game host börjar.");-->
+                                                <!--myList5.Add("KATEGORI: Klädmärken. Game host börjar.");-->
+                                                <!--myList5.Add("KATEGORI: Sexställningar. Game host börjar.");-->
+                                                <!--myList5.Add("KATEGORI: Låttitlar ifrån melodifestivalen.");-->
+
+
+
+
+
+
+                                                <!--myList6 = new List.<String>();-->
+                                                    <!--myList6.Add("Tumleken:Fullast får leken.");-->
+                                                    <!--myList6.Add("Tumleken:Nyktrast får leken.");-->
+                                                    <!--myList6.Add("Tumleken:Längst hår får leken.");-->
+                                                    <!--myList6.Add("Tumleken:Störst näsa får leken.");-->
+                                                    <!--myList6.Add("Tumleken:Störst tumme får leken.");-->
+                                                    <!--myList6.Add("Tumleken:Den som sagt minst får leken får leken.");-->
+                                                    <!--myList6.Add("Tumleken:Störst fötter får leken.");-->
+                                                    <!--myList6.Add("Tumleken:Mest dricka i glaset/flaskan/burken får leken.");-->
+                                                    <!--myList6.Add("Tumleken:Minst dricka i glaset/flaskan/burken får leken.");-->
+                                                    <!--myList6.Add("Tumleken:Hosten får leken.");-->
+                                                    <!--myList6.Add("Tumleken:Den som har mest kläder på sig får leken.");-->
+                                                    <!--myList6.Add("Tumleken:Den med färggladast kläder på sig får leken.");-->
+
+
+
+
+
+
+
+                                                    <!--}-->
+                                                    <!--}-->

@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">DrinkingGame</string>
+
+    <string-array name="i_have_never">
+        <item>Jag har aldrig onanerat utomhus</item>
+        <item>Jag har aldrig varit väldigt tänd på en kompis.</item>
+        <item>Jag har aldrig krossat ett glas på krogen.</item>
+        <item>Jag har aldrig strippat.</item>
+        <item>Jag har aldrig haft sex på krogtoaletten.</item>
+        <item>Jag har aldrig haft sex när någon annan är i rummet.</item>
+        <item>Jag har aldrig filmat när jag haft sex.</item>
+        <item>Jag har aldrig haft gruppsex.</item>
+        <item>Jag har aldrig fått klagomål för att jag varit för högljudd i sängen.</item>
+        <item>Jag har aldrig flirtat för att få en drink.</item>
+        <item>Jag har aldrig velat ta någon/bli tagen i 2an.</item>
+        <item>Jag har aldrig onanerat med en frukt.</item>
+        <item>Jag har aldrig burit parfym gjord för det motsatta könet.</item>
+        <item>Jag har aldrig provat kläder som är gjorde för det motsatta könet.</item>
+        <item>Jag har aldrig legat med någon jag tycker är ful.</item>
+        <item>Jag har aldrig kommit på någon medan de har onanerat/knullat.</item>
+        <item>Jag har aldrig haft sex med ett ex.</item>
+        <item>Jag har aldrig haft låtar som jag skäms över på min playlist.</item>
+        <item>Jag har aldrig fuskat på ett prov/tenta.</item>
+        <item>Jag har aldrig smygkollat på mina grannar.</item>
+        <item>Jag har aldrig smygläst en annan persons SMS.</item>
+        <item>Jag har aldrig väntat i hallen bara för att slippa hälsa på en granne som går förbi i trapphuset.</item>
+        <item>Jag har aldrig använt ursäkter som \"dålig mottagning\" \"inga batterier\" för att avsluta ett telefon samtal.</item>
+        <item>Jag har aldrig samtalat med rektorn.</item>
+        <item>Jag har aldrig busringt.</item>
+        <item>Jag har aldrig tjuvåkt på bussen/tåget.</item>
+        <item>Jag har aldrig kissat i vattnet när jag badat i en sjö/pool.</item>
+        <item>Jag har aldrig dejtat flera personer samtidigt.</item>
+        <item>Jag har aldrig varit otrogen bara för att hämnas på min partner.</item>
+        <item>Jag har aldrig jobbat svart.</item>
+        <item>Jag har aldrig dejtat någon i smyg.</item>
+        <item>Jag har aldrig jag har aldrig brukat våld emot någon för vi inte har haft samma politiska åsikter.</item>
+        <item>Jag har aldrig ollat/sniglat något.</item>
+        <item>Jag har aldrig sjukanmält mig för att jag varit bakis.</item>
+        <item>Jag har aldrig blivit fotograferad naken (i vuxen ålder).</item>
+        <item>Jag har aldrig varit i slagsmål.</item>
+        <item>Jag har aldrig lämnat ut fel telefonnummer så personen som frågade inte skulle kunna ringa.</item>
+        <item>Jag har aldrig snott sprit ur mina föräldrars barskåp.</item>
+        <item>Jag har aldrig googlat mitt eget namn.</item>
+        <item>Jag har aldrig använt mig av en falsk identitet på internet.</item>
+        <item>Jag har aldrig haft telefonsex.</item>
+        <item>Jag har aldrig använt en sexleksak.</item>
+        <item>Jag har aldrig haft en KK.</item>
+        <item>Jag har aldrig råkat säga fel namn till min pojkvän/flickvän.</item>
+        <item>Jag har aldrig snott pengar av mina föräldrar.</item>
+        <item>Jag har aldrig blivit arresterad.</item>
+        <item>Jag har aldrig gått till frisören och bett om att få en likadan frisyr som en kändis.</item>
+        <item>Jag har aldrig rivit ner något i en affär och inte plockat upp det.</item>
+        <item>Jag har aldrig fuskat i en tävling.</item>
+        <item>Jag har aldrig råkat ha sönder något men låtsats som ingenting och hoppats att ingen ska märka.</item>
+        <item>Jag har aldrig ljugit om något bara för skojs skull.</item>
+        <item>Jag har aldrig stört mig på min sexpartners andedräckt.</item>
+        <item>Jag har aldrig haft sex utomhus.</item>
+        <item>Jag har aldrig hamnat på sjukhuset pga. fylla.</item>
+        <item>Jag har aldrig fejkat en orgasm.</item>
+        <item>Jag har aldrig varit bakis i skolan.</item>
+        <item>Jag har aldrig varit full i skolan.</item>
+        <item>Jag har aldrig blivit utsparkad från en klubb.</item>
+        <item>Jag har aldrig vart i fyllefajt.</item>
+        <item>Jag har aldrig solat naken.</item>
+        <item>Jag har aldrig kysst någon av samma kön.</item>
+        <item>Jag har aldrig haft sex i ett tält.</item>
+        <item>Jag har aldrig vart tänd på min lärare.</item>
+        <item>Jag har aldrig haft oralsex.</item>
+        <item>Jag har aldrig fantiserat om någon i detta rum.</item>
+        <item>Jag har aldrig masserat någon i skolan/ på jobbet.</item>
+        <item>Jag har aldrig legat med en lärare.</item>
+        <item>Jag har aldrig haft sex i ett träd.</item>
+        <item>Jag har aldrig tvekat på min sexuella läggning.</item>
+        <item>Jag har aldrig varit tänd på min kompis.</item>
+        <item>Jag har aldrig ångrat min sexpartner.</item>
+        <item>Jag har aldrig haft sex i min kompis föräldrars säng.</item>
+        <item>Jag har aldrig gått på strippklubb.</item>
+        <item>Jag har aldrig badat i en stadsfontän.</item>
+        <item>Jag har aldrig somnat med en snus inne.</item>
+        <item>Jag har aldrig somnat med telefonen i handen.</item>
+        <item>Jag har aldrig kysst någon inte borde ha kysst.</item>
+        <item>Jag har aldrig somnat vid ett olämpligt tillfälle.</item>
+        <item>Jag har aldrig på något sätt delat en naken bild av mig själv.</item>
+        <item>Jag har aldrig varit gravid/gjort någon gravid.</item>
+        <item>Jag har aldrig pussat en groda.</item>
+        <item>Jag har aldrig skurit mig på en osthyvel.</item>
+        <item>Jag har aldrig tagit en tugga direkt ifrån en stor ost.</item>
+        <item>Jag har aldrig kräkts i en taxi.</item>
+        <item>Jag har aldrig sprungit naken utomhus.</item>
+        <item>Jag har aldrig åkt polisbil.</item>
+        <item>Jag har aldrig handlat på Lidell.</item>
+        <item>Jag har aldrig somnat på en bio.</item>
+        <item>Jag har aldrig sett en hel Starwars film.</item>
+        <item>Jag har aldrig somnat på ett film maraton.</item>
+        <item>Jag har aldrig somnat när jag var full i ett badkar.</item>
+        <item>Jag har aldrig åkt motorcykel.</item>
+        <item>Jag har aldrig ätit en kiwi med skal.</item>
+        <item>Jag har aldrig blivit jagad av polisen.</item>
+        <item>Jag har aldrig halka på is.</item>
+        <item>Jag har aldrig flirtat med min kompis pojk/flickvän.</item>
+        <item>Jag har aldrig skällt ut min granne.</item>
+        <item>Jag har aldrig gått på krogen spiknykter.</item>
+        <item>Jag har aldrig druckit ren vodka utan att skölja ner med något.</item>
+        <item>Jag har aldrig varit full mer än 24 timmar i sträck.</item>
+        <item>Jag har aldrig varit med i en wet white t-shirt tävling.</item>
+        <item>Jag har aldrig varit missnöjd över mina tår.</item>
+        <item>Jag har aldrig varit medlem på en dejtingsajt.</item>
+        <item>Jag har aldrig ätit surströmming.</item>
+        <item>Jag har aldrig pizza till frukost.</item>
+        <item>Jag har aldrig spetsat lättöl med vodka.</item>
+        <item>Jag har aldrig titta på en film bara för en annan persons skull.</item>
+        <item>Jag har aldrig tänkt på någon annan än person jag har sex med under sexakten.</item>
+        <item>Jag har aldrig slickat på en stolpe.</item>
+        <item>Jag har aldrig gått på en buss som jag inte vet var den ska?</item>
+        <item>Jag har aldrig ljugit för att få ligga (och lyckats).</item>
+        <item>Jag har aldrig snattat.</item>
+        <item>Jag har aldrig haft sex med strumporna på.</item>
+        <item>Jag har aldrig haft sex i en bil.</item>
+        <item>Jag har aldrig använd någon annans tandborste.</item>
+        <item>Jag har aldrig stått och berätta för någon okänd person vad som är rätt och vad som är fel.</item>
+        <item>Jag har aldrig fisit högt på en offentlig plats där någon KAN ha hört.</item>
+        <item>Jag har aldrig somnat när jag haft sex.</item>
+        <item>Jag har aldrig rotat i någon annan persons badrums skåp.</item>
+        <item>Jag har aldrig ägt en sexleksak.</item>
+        <item>Jag har aldrig använt en sexleksak.</item>
+        <item>Jag har aldrig tittat på en hel porrfilm.</item>
+        <item>Jag har aldrig svalt en snus.</item>
+        <item>Jag har aldrig haft en minnes lucka där jag verkligen inte minns något på minst 15min.</item>
+        <item>Jag har aldrig fuskat på ett prov.</item>
+        <item>Jag har aldrig skrattat åt någon som gjort dig illa.</item>
+        <item>Jag har aldrig trampat i hundbajs.</item>
+        <item>Jag har aldrig petat en katt rumpan som löper.</item>
+        <item>Jag har aldrig varit otrevlig mot en lärare.</item>
+        <item>Jag har aldrig varit i slagsmål.</item>
+        <item>Jag har aldrig räddat livet på något.</item>
+        <item>Jag har aldrig ätit en pizza som kosta över 100kr på en vanlig pizzeria.</item>
+        <item>Jag har aldrig legat med en arbetskamrat/ klasskamrat.</item>
+        <item>Jag har aldrig spytt på en buss.</item>
+        <item>Jag har aldrig flirta med någon/raggat på någon på en buss.</item>
+        <item>Jag har aldrig onanerat på en buss.</item>
+        <item>Jag har aldrig åkt i en skateboard ramp.</item>
+        <item>Jag har aldrig plockat svamp.</item>
+        <item>Jag har aldrig använd en brandsläckare.</item>
+        <item>Jag har aldrig cyklat när jag varit jätte full.</item>
+        <item>Jag har aldrig klättrat upp på ett tak.</item>
+        <item>Jag har aldrig kör fingrarna i halsen för att spy.</item>
+        <item>Jag har aldrig kört mina fingrar i halsen på någon för att få personen att spy.</item>
+        <item>Jag har aldrig deltagit i en ”öl-klunknings” tävling</item>
+        <item>Jag har aldrig gjort något bara för någon sa YOLO.</item>
+        <item>Jag har aldrig startat en konveration med att säga, fan vad full jag är.</item>
+        <item>Jag har aldrig kissat på mig under fyllan.</item>
+        <item>Jag har aldrig spytt på någon under fyllan.</item>
+        <item>Jag har aldrig haft sexuella tankar om en väns syster/bror.</item>
+        <item>Jag har aldrig velat ha sex med någon av samma kön.</item>
+        <item>Jag har aldrig ljugit om min sexuella läggning.</item>
+        <item>Jag har aldrig förlorat under klädpoker(naken).</item>
+        <item>Jag har aldrig velat ha sex med någon annan än min partner under ett förhållande.</item>
+        <item>Jag har aldrig spelat dum för att undvika att berätta sanningen.</item>
+        <item>Jag har aldrig ångrat det jag gjort under en fylla.</item>
+        <item>Jag har aldrig ljugit om något stort för en vän.</item>
+        <item>Jag har aldrig spytt på någon annan person.</item>
+        <item>Jag har aldrig svept en liter öl i ett svep.</item>
+        <item>Jag har aldrig råkat gå in i fel lägenhet/hus.</item>
+        <item>Jag har aldrig tappat bort nycklarna på fyllan.</item>
+        <item>Jag har aldrig sovit på golvet.</item>
+        <item>Jag har aldrig kissat ut för en balkong.</item>
+        <item>Jag har aldrig spillt ut någon och vägrat erkänna det.</item>
+        <item>Jag har aldrig spytt och vägrat erkänna det.</item>
+        <item>Jag har aldrig stoppat fingret i en fläkt.</item>
+        <item>Jag har aldrig slagit någon med en toffel.</item>
+        <item>Jag har aldrig druckit vodka ur en vattenflaska.</item>
+        <item>Jag har aldrig målat ett självporträtt.</item>
+        <item>Jag har aldrig stulit någons drink.</item>
+        <item>Jag har aldrig spytt på dansgolvet.</item>
+        <item>Jag har aldrig haft sönder ett fönster med en boll.</item>
+        <item>Jag har aldrig tappat bort lappen till garderoben.</item>
+        <item>Jag har aldrig somnat i solen och bränt mig.</item>
+        <item>Jag har aldrig slickat en killes bröstvårta.</item>
+        <item>Jag har aldrig ljugit på en date/för ett haff om hur gammal jag är.</item>
+        <item>Jag har aldrig tagit en snabbis i bilen.</item>
+        <item>Jag har aldrig träffat någon jag lärt känna via internet.</item>
+        <item>Jag har aldrig haft en homoerotisk upplevelse.</item>
+        <item>Jag har aldrig rotat i lådor eller skåp på någon annas fest.</item>
+        <item>Jag har aldrig haft sex med handfängsel inblandad.</item>
+        <item>Jag har aldrig slickat en tjej bröst vårta.</item>
+        <item>Jag har aldrig legat till mig ett jobb</item>
+        <item>Jag har aldrig velat bli politiker.</item>
+        <item>Jag har aldrig gått in i en stolpe.</item>
+        <item>Jag har aldrig haft sex i ett provrum.</item>
+        <item>Jag har aldrig svara i telefonen mitt i ett samlag.</item>
+        <item>Jag har aldrig haft sex med någon på en utlandsresa.</item>
+        <item>Jag har aldrig druckit slattar på krogen.</item>
+        <item>Jag har aldrig vaknat upp och inte haft en aning om vart ens underkläder är.</item>
+        <item>Jag har aldrig tagit en sats i andsiktet.</item>
+        <item>Jag har aldrig lagt upp en annons på en dateing site.</item>
+        <item>Jag har aldrig lagt upp en annons åt någon annan på en dateing site.</item>
+        <item>Jag har aldrig spytt på morgonen efter en fylla</item>
+        <item>Jag har aldrig haft med mig sprit i en plunta in på krogen</item>
+        <item>Jag har aldrig provat LSD</item>
+        <item>Jag har aldrig provat extacy</item>
+    </string-array>
+
+    <string-array name="all_that_have">
+        <item>Alla som har blå ögon dricker</item>
+        <item>Alla som har bruna ögon dricker</item>
+        <item>Alla som onanerat någon gång under veckan dricker</item>
+        <item>Alla som är taggade dricker</item>
+        <item>Alla som har mer än halva drycken kvar dricker</item>
+        <item>Alla som har mindre än halva drycken kvar dricker upp</item>
+        <item>Alla som gillar musikaler dricker</item>
+        <item>Alla som gillar e-sport dricker</item>
+        <item>Alla som har långt hår dricker</item>
+        <item>Alla som är födda ett ojämnt år dricker</item>
+        <item>Alla som är sugen en cigg just nu dricker</item>
+        <item>Alla som är kåta just nu dricker</item>
+        <item>Alla som tycker de är okej att dansa nyktert dricker</item>
+        <item>Alla som har något rosa på sig dricker.</item>
+        <item>Alla som har något svart på sig dricker.</item>
+        <item>Alla som gillar Magnus uggla dricker.</item>
+        <item>Alla som vet vad klockan är dricker.</item>
+        <item>Alla som rört sin telefon inom de senaste 5 min dricker.</item>
+        <item>Alla som gillar Pokemon dricker.</item>
+        <item>Alla som gillar Redbull-vodka dricker.</item>
+        <item>Alla som föredrar KK över förhållande dricker.</item>
+        <item>Alla som gillar fotboll dricker.</item>
+        <item>Alla som avskyr hästar dricker.</item>
+        <item>Alla som vet vad ”Ameno” är för låt dricker.</item>
+        <item>Alla som föredrar hemma kvällar över fest dricker upp sitt glas.</item>
+        <item>Alla som är beroende av nässpray dricker,</item>
+        <item>Alla som avskyr öl dricker.</item>
+        <item>Alla som är kåt dricker.</item>
+        <item>Alla som är sugen på glass dricker.</item>
+        <item>Alla som föredrar playlists med musik över album dricker.</item>
+        <item>Alla som vill utomlands dricker.</item>
+        <item>Alla som äger ett Gameboy dricker.</item>
+        <item>Alla som håller på med telefonen just nu dricker.</item>
+        <item>Alla som varit inne på facebook senaste 5 minuterna dricker.</item>
+        <item>Alla som föredrar kebab över pizza dricker.</item>
+        <item>Alla som föredrar vin över whisky dricker.</item>
+        <item>Alla som hatar 3.5or dricker.</item>
+        <item>Alla som går i skola dricker.</item>
+        <item>Alla som gillar att sjunga opera dricker.</item>
+        <item>Alla som sjunger falskt dricker.</item>
+        <item>Alla som gillar frukost dricker.</item>
+        <item>Alla som vill ha en säsong till av pistvakt dricker.</item>
+        <item>Alla som kommit längre än 50 banor på candycrush dricker.</item>
+        <item>Alla som tittat på porr den senaste veckan dricker.</item>
+        <item>Alla som sugit av någon i år dricker.</item>
+        <item>Alla som gillar älgkött dricker.</item>
+        <item>Alla som tycker doggystyle är en bra ställning dricker.</item>
+        <item>Alla som tycker om vintern dricker.</item>
+        <item>Alla som gillar sommaren dricker.</item>
+        <item>Alla som kan dansa dricker.</item>
+        <item>Alla som springer milen under 60min dricker.</item>
+        <item>Alla som gillar rapp dricker.</item>
+        <item>Alla som har varit i Kristiania dricker.</item>
+        <item>Alla som har varit på toaletten senaste timmen dricker.</item>
+    </string-array>
+
+    <string-array name="who">
+        <item>Vem har bäst skratt?</item>
+        <item>Vem sitter mest vid datorn?</item>
+        <item>Vem åker utomlands mest?</item>
+        <item>Vem bäst på matte?</item>
+        <item>Vem tar längst tid på att göra sig i ordning?</item>
+        <item>Vem spendera mest pengar?</item>
+        <item>Vem åker mest bil samt buss?</item>
+        <item>Vem tar/tog körkort sist?</item>
+        <item>Vem är sämst på engelska?</item>
+        <item>Vem brukar bli fullast?</item>
+        <item>Vem kommer ha legat med flest när den är 40?</item>
+        <item>Vem är bäst i sängen?</item>
+        <item>Vem har bäst självförtroende?</item>
+        <item>Vem gör flest sjuka grejer?</item>
+        <item>Vem har snyggast underkläder?</item>
+        <item>Vem har snyggast skor?</item>
+        <item>Vem blir snällast på fyllan?</item>
+        <item>Vem pratar mest skit på fyllan?</item>
+        <item>Vem blir argast på fyllan?</item>
+        <item>Vem har haft sex flest gånger?</item>
+        <item>Vem har haft sex med flest personer?</item>
+        <item>Vem festar mest?</item>
+        <item>Vem är bäst på att kyssas?</item>
+        <item>Vem kommer bli fullast ikväll?</item>
+        <item>Vem kommer vara nyktrast ikväll?</item>
+        <item>Vem är mest beroende av sociala medier?</item>
+        <item>Vem spelar mest datorspel nuförtiden?</item>
+        <item>Vem har kortast stubin?</item>
+        <item>Vem har längst stubin?</item>
+        <item>Vem har bäst humor?</item>
+        <item>Vem brukar bli fullast?</item>
+        <item>Vem brukar vara minst full?</item>
+        <item>Vem vågar säga vad han/hon tycker?</item>
+        <item>Vem som styr upp på fester bäst?</item>
+        <item>Vem har legat med flest personer?</item>
+        <item>Vem blir lättast kär?</item>
+        <item>Vem festar mest?</item>
+        <item>Vem gillar den här drick leken mest?</item>
+        <item>Vem tränar mest?</item>
+        <item>Vem är bäst på att kyssa?</item>
+        <item>Vem är bäst i sängen?</item>
+        <item>Vem är starkast?</item>
+        <item>Vem är snällast?</item>
+        <item>Vem är snålast?</item>
+        <item>Vem är ärligast?</item>
+        <item>Vem kommer dricka mest?</item>
+        <item>Vem dricker mest generellt?</item>
+        <item>Vem är mest religiös?</item>
+        <item>Vem postar mest statusar på facebook/tweetar?</item>
+        <item>Vem fyllefacebookar/tweetar mest?</item>
+        <item>Vem gör mest dumma saker på fyllan?</item>
+        <item>Vem har sett flest filmer?</item>
+        <item>Vem fylleringer/smsar mest?</item>
+        <item>Vem har druckit mest cola genom tiderna?</item>
+        <item>Vem ljuger mest för sina föräldrar?</item>
+        <item>Vem vem änvänder toaletten flitigast på fyllan?</item>
+        <item>Vem blir oftast fyllesentimental?</item>
+        <item>Vem ägnar mest tid framför datorn?</item>
+        <item>Vem dansar bäst på fest?</item>
+        <item>Vem dansar mest på fest?</item>
+        <item>Vem har bäst klädsmak</item>
+        <item>Vem har torrast humor?</item>
+        <item>Vem haffar mest på fyllan?</item>
+        <item>Vem har på sig mest parfym?</item>
+        <item>Vem kommer dricka för mycket ikväll?</item>
+        <item>Vem röker mest?</item>
+        <item>Vem stönar mest?</item>
+        <item>Vem stönar högst?</item>
+        <item>Vem är vildast i sängen?</item>
+        <item>Vem är generösast på fyllan?</item>
+        <item>Vem hade sex senast?</item>
+        <item>Vem har haft sex med flest personer?</item>
+        <item>Vem har haft sex på flest ställen?</item>
+        <item>Vem har pussat flest personer i rummet?</item>
+        <item>Vem har flest hemligheter</item>
+        <item>Vem är mest öppen för gruppsex?</item>
+        <item>Vem är mest öppen för gruppsex?</item>
+        <item>Vem är mest beroende av lypsyl?</item>
+        <item>Vem tuggar mest tuggummi?</item>
+        <item>Vem är mest öppen om sina sexuella historier?</item>
+        <item>Vem skäms minst?</item>
+        <item>Vem är mest bortskämd?</item>
+        <item>Vem styr fest oftast?</item>
+        <item>Vem är största Markoolio fanet?</item>
+        <item>Vem kan springa längst?</item>
+        <item>Vem har druckit mest i sträck någon gång?</item>
+        <item>Vem förlorar på pokern om vi i spelet skulle spela just nu?</item>
+        <item>Vem är mest kreativ?</item>
+        <item>Vem är största badkrukan?</item>
+        <item>Vem gillar sport mest?</item>
+        <item>Vem har haft flest förhållanden?</item>
+        <item>Vem har flest vänner på facebook?</item>
+        <item>Vem gör de minst intressanta tweets?</item>
+        <item>Vem skulle klara sig bäst ensam i skogen i en vecka?</item>
+        <item>Vem har roligast familj?</item>
+        <item>Vem hårigast röv?</item>
+        <item>Vem är mest insatt i mode?</item>
+        <item>Vem har härligast röv?</item>
+        <item>Vem kan vara längst inne i en sko affär?</item>
+        <item>Vem skulle komma längst i tävlingen ”vem vill bli miljonär?”</item>
+        <item>Vem gör de längsta toalettbesöken?</item>
+        <item>Vem förtjänar mest en klunk?</item>
+        <item>Vem tittar mest på tv?</item>
+        <item>Vem har sett flest tv serier?</item>
+        <item>Vem har flest kakpaket hemma?</item>
+        <item>Vem spenderar mest tid framför spegeln?</item>
+        <item>Vem kan hoppa längst?</item>
+        <item>Vem har strulat med flest på en kväll?</item>
+        <item>Vem spenderar mest pengar på krogen?</item>
+        <item>Vem äter oftast ute?</item>
+        <item>Vem har bäst betyg generellt i skolan?</item>
+        <item>Vem är bäst på att diska?</item>
+        <item>Vem dricker mest kaffe?</item>
+        <item>Vem i gruppen skulle kunna stå på ett ben längst just nu?</item>
+        <item>Vem kan dricka mest utan att gå på toa?</item>
+        <item>Vem är mest tävlings inriktad?</item>
+        <item>Vem lever längst?</item>
+        <item>Vem lyssnar mest på pop musik?</item>
+        <item>Vem sorterar soporna bäst?</item>
+        <item>Vem lagar flest saker med tejp?</item>
+        <item>Vem hade senast sex?</item>
+        <item>Vem sover längst per natt?</item>
+        <item>Vem är den mest könsstereotypiska personen?</item>
+        <item>Vem har hårigast könsorgan?</item>
+        <item>Vem har läst flest böcker?</item>
+    </string-array>
+</resources>
