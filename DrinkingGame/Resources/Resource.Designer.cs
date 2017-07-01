@@ -2238,8 +2238,8 @@ namespace DrinkingGame
 			// aapt resource value: 0x7f07003d
 			public const int all = 2131165245;
 			
-			// aapt resource value: 0x7f070080
-			public const int all_that_have = 2131165312;
+			// aapt resource value: 0x7f070082
+			public const int all_that_have = 2131165314;
 			
 			// aapt resource value: 0x7f070023
 			public const int always = 2131165219;
@@ -2247,14 +2247,14 @@ namespace DrinkingGame
 			// aapt resource value: 0x7f07002f
 			public const int auto = 2131165231;
 			
-			// aapt resource value: 0x7f07009d
-			public const int backBtn = 2131165341;
-			
 			// aapt resource value: 0x7f070020
 			public const int beginning = 2131165216;
 			
 			// aapt resource value: 0x7f070028
 			public const int bottom = 2131165224;
+			
+			// aapt resource value: 0x7f07009b
+			public const int button1 = 2131165339;
 			
 			// aapt resource value: 0x7f07004b
 			public const int buttonPanel = 2131165259;
@@ -2355,9 +2355,6 @@ namespace DrinkingGame
 			// aapt resource value: 0x7f07003f
 			public const int @fixed = 2131165247;
 			
-			// aapt resource value: 0x7f07009c
-			public const int forwardBtn = 2131165340;
-			
 			// aapt resource value: 0x7f070005
 			public const int home = 2131165189;
 			
@@ -2397,17 +2394,14 @@ namespace DrinkingGame
 			// aapt resource value: 0x7f070097
 			public const int line3 = 2131165335;
 			
-			// aapt resource value: 0x7f07009a
-			public const int linearLayout1 = 2131165338;
-			
 			// aapt resource value: 0x7f07000f
 			public const int listMode = 2131165199;
 			
 			// aapt resource value: 0x7f070048
 			public const int list_item = 2131165256;
 			
-			// aapt resource value: 0x7f07009f
-			public const int masked = 2131165343;
+			// aapt resource value: 0x7f07009d
+			public const int masked = 2131165341;
 			
 			// aapt resource value: 0x7f070089
 			public const int media_actions = 2131165321;
@@ -2457,11 +2451,11 @@ namespace DrinkingGame
 			// aapt resource value: 0x7f070007
 			public const int progress_horizontal = 2131165191;
 			
-			// aapt resource value: 0x7f07009b
-			public const int questionText = 2131165339;
-			
 			// aapt resource value: 0x7f07005d
 			public const int radio = 2131165277;
+			
+			// aapt resource value: 0x7f07009a
+			public const int relativeLayout1 = 2131165338;
 			
 			// aapt resource value: 0x7f070035
 			public const int right = 2131165237;
@@ -2565,8 +2559,8 @@ namespace DrinkingGame
 			// aapt resource value: 0x7f070036
 			public const int start = 2131165238;
 			
-			// aapt resource value: 0x7f070082
-			public const int start_game = 2131165314;
+			// aapt resource value: 0x7f070080
+			public const int start_game = 2131165312;
 			
 			// aapt resource value: 0x7f070088
 			public const int status_bar_latest_event_content = 2131165320;
@@ -2637,8 +2631,8 @@ namespace DrinkingGame
 			// aapt resource value: 0x7f07000e
 			public const int view_offset_helper = 2131165198;
 			
-			// aapt resource value: 0x7f07009e
-			public const int visible = 2131165342;
+			// aapt resource value: 0x7f07009c
+			public const int visible = 2131165340;
 			
 			// aapt resource value: 0x7f07007f
 			public const int who = 2131165311;

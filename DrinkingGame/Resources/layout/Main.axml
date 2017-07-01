@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="fill_parent">
     <Switch
         android:text="Who"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/who" />
-    <Switch
-        android:text="All that have"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/all_that_have" />
-    <Switch
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/i_have_never"
-        android:text="I have never" />
     <Button
         android:text="Start game"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
         android:id="@+id/start_game" />
-
-</LinearLayout>
+    <Switch
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/i_have_never"
+        android:text="I have never"
+        android:layout_below="@id/who" />
+    <Switch
+        android:text="All that have"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/all_that_have"
+        android:layout_below="@id/i_have_never" />
+</RelativeLayout>
